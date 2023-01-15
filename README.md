@@ -19,6 +19,12 @@ pip install selenium==4.1.0
 pip install Pillow==7.2.0
 ```
 
+# 注意事項
+
+chromedriver.exeは自分のPCでお使いのChromeのバージョンに合わせてお使いください。
+
+ここに置いてあるものはChromeのバージョン109に対応したものとなっています。
+
 # 作成者情報
 
 作成者：kaitona
